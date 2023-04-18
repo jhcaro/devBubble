@@ -4,6 +4,7 @@ Projects developed in bubble.io
 By contract, I can only share the links.
 
 Company: Coonfie
+
 Projects:
   📝✅💭 PQRSF:    
   
