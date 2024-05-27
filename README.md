@@ -7,6 +7,12 @@ Company: Coonfie
 
 Projects:
 
+   Marketplace BePelican:
+
+   Link:                      https://bepelican.com/  
+   
+   Description:               Travel experience sales center, create, edit, book and manage are some of the functions available.
+
    Payroll calculator:
 
   Link:                        https://payrolladvisers.com/tools-calculator/
