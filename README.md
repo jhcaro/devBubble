@@ -6,6 +6,14 @@ By contract, I can only share the links.
 Company: Coonfie
 
 Projects:
+
+  Link:                        https://payrolladvisers.com/tools-calculator/
+
+  Description:                 Payroll calculator that allows you to generate a quote in pdf 
+                               and was developed in bubble.io and SQL Server while the page 
+                               that contains it was developed in Wordpress.
+
+
   📝✅💭 PQRSF:    
   
   Link:                        https://coonfilive.coonfie.com/pqrsf
